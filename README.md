@@ -8,7 +8,7 @@ Repo full of broken links examples
 - [Fake Website](http://this-website-does-not-exist-12345.com)
 
 
-## GitHub 404 Pages (non-existent repos/files)
+## GitHub 404 Pages (non-existent repos/files aka soft 404)
 - [Non-existent GitHub Repo](https://github.com/this-user-does-not-exist-12345/fake-repo)
 - [Deleted GitHub File](https://github.com/Deadlink-Hunter/Testing-repo/blob/main/this-file-does-not-exist.md)
 - [Non-existent Branch](https://github.com/Deadlink-Hunter/Testing-repo/tree/fake-branch-404)
